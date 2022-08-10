@@ -1,0 +1,2 @@
+(this["webpackJsonppratica-react-04"]=this["webpackJsonppratica-react-04"]||[]).push([[0],{4:function(t,e){},5:function(t,e,c){"use strict";c.r(e);var r=c(0),a=c(3),n=c(4),o=c.n(n),i=c(1),s=document.getElementById("root");Object(a.createRoot)(s).render(Object(i.jsx)(r.StrictMode,{children:Object(i.jsx)(o.a,{})}))}},[[5,1,2]]]);
+//# sourceMappingURL=main.127b74c8.chunk.js.map
